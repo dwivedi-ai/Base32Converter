@@ -35,7 +35,7 @@ Here's an example of how to use the Base32Converter program:
 
 1. Convert decimal to base-32:
 
-  ```java
+  ```
   1. Convert decimal to base-32.
   2. Convert base-32 to decimal.
   Enter your choice: 1
@@ -44,7 +44,7 @@ Here's an example of how to use the Base32Converter program:
   ```
 
 2. Convert base-32 to decimal:
-  ```java
+  ```
   1. Convert decimal to base-32.
   2. Convert base-32 to decimal.
   Enter your choice: 2
