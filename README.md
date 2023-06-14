@@ -59,3 +59,7 @@ Contributions to Base32Converter are welcome! If you find any issues or have sug
 ## Author
 
 Base32Converter is written by Ankit Dwivedi.
+
+## License
+
+This project is licensed under the MIT License.
