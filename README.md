@@ -23,7 +23,9 @@ To run this program, you need to have the following installed on your machine:
 
    ```shell
    javac Base32Converter.java
+   ```
 4. Run the program with the following command:
+
   ```shell
    java Base32Converter
   ```
